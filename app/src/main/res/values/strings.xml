@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">memeapp</string>
+    <string name="title"> my name is meme app</string>
+    <string name="titlememe">I am the first app</string>
+    <string name="this_is_my_app">this is my app</string>
+</resources>
