@@ -1,6 +1,6 @@
-<resources>
-    <string name="app_name">memeapp</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="MissingTranslation">memeapp</string>
     <string name="title"> my name is meme app</string>
-    <string name="titlememe">I am the first app</string>
-    <string name="this_is_my_app">this is my app</string>
+    <string name="titlememe" translatable="false">I am the first app</string>
+    <string name="this_is_my_app" tools:ignore="MissingTranslation">this is my app</string>
 </resources>
